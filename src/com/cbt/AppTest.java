@@ -1,7 +1,7 @@
 package com.cbt;
 
 public class AppTest {
-	int i=0;
+	int i=1;
 	public static void main(String[] args) {
 		
 	}
